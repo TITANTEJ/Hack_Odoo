@@ -1,8 +1,12 @@
 # Hack_Odoo  
-Tej shah , tejshahtitan12345@gmail.com
+Tej shah , tejshahtitan12345@gmail.com 
+
 Bhumi shah , 24it089@charusat.edu.in
+
 Pratham chudasama, prathamchudasama123@gmail.com
+
 Priyanshu vaghela , priyanshuvaghela2110@gmail.com
+
 here's the problem statement for hackathon : 
 
 
