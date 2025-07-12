@@ -1,6 +1,14 @@
-# Hack_Odoo 
+# Hack_Odoo  
+Tej shah , tejshahtitan12345@gmail.com
+Bhumi shah , 24it089@charusat.edu.in
+Pratham chudasama, prathamchudasama123@gmail.com
+Priyanshu vaghela , priyanshuvaghela2110@gmail.com
 here's the problem statement for hackathon : 
-problem statement 2
+
+
+problem statement 2 
+
+
 StackIt – A Minimal Q&A Forum Platform
 Overview
 StackIt is a m inim al question-and-answer platform that supports collaborative
